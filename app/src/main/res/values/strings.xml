@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">BroadBatteryApp</string>
+    <string name="battery_level">\"battery level\"</string>
+</resources>
